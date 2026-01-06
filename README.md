@@ -55,12 +55,12 @@ Uygulama, öğrencinin çözdüğü 5 farklı interaktif test ile öğretmenin d
 # 🚀 Kurulum ve Başlatma
 Projeyi kendi bilgisayarınıza indirmek için terminale şu komutu yazın:
 ```bash
-git clone https://github.com/sudelotti/disleksi_ogretmen_farkindaligi.git
+git clone https://github.com/sudelotti/disleksi_farkindaligi.git
 ```
 
 Projenin bulunduğu konuma gitmek için terminale şu komutu yazın:
 ```bash
-cd disleksi_ogretmen_farkindaligi
+cd disleksi_farkindaligi
 ```
 
 Uygulamayı çalıştırmak için terminale şu komutu yazın:
